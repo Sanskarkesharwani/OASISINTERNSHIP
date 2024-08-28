@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class NumberGame{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        int chances = 6;
+        int chances = 7;
         int finals = 0;
         boolean playAgain = true;
         System.out.println("Welcome Mate!");
